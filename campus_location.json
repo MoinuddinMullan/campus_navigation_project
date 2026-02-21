@@ -1,0 +1,206 @@
+[
+  {
+    "id": "lib01",
+    "name": "UTU Central Library",
+    "lat":21.066910410272698, 
+    "lng":73.13017845606707
+  },
+  {
+    "id":"lib02",
+    "name":"B U Tarsadia Learning Resource Center",
+    "lat":21.06711940507842, 
+    "lng":73.1300275818159
+  },
+  {
+    "id": "can01",
+    "name": "Ballu Bhai Canteen",
+    "lat": 21.068215999005268, 
+    "lng": 73.13028963156833
+  },
+  {
+    "id":"dept01",
+    "name":"SRIMCA",
+    "lat":21.06916849345884, 
+    "lng":73.13392053923964
+  },
+  {
+    "id":"dept02",
+    "name":"Maliba Pharmacy College",
+    "lat":21.068365128783682, 
+    "lng":73.13333483321342
+  },
+  {
+    "id":"dept03",
+    "name":"B.V.Patel",
+    "lat":21.0696819,
+    "lng":73.13242103
+  },
+  {
+    "id":"dept04",
+    "name":"BMIIT",
+    "lat":21.06550,
+    "lng":73.13113
+  },
+  {
+    "id":"dpet05",
+    "name":"unknown",
+    "lat":21.06868120720646, 
+    "lng":73.13350419399208
+  },
+  {
+    "id":"dept06",
+    "name":"C. G. Bhakta Institute of Biotechnology",
+    "lat":21.069154377269637, 
+    "lng":73.13291101019068
+  },
+  {
+    "id":"dept07",
+    "name":"Department of Computer Science and Technology",
+    "lat":21.06945989216393,
+    "lng": 73.13348530147573
+  },
+  {
+    "id":"dept08",
+    "name":"Maniba Bhula Nursing College",
+    "lat":21.069707258953894,
+    "lng":73.1339742981701
+  },
+  {
+    "id":"dept09",
+    "name":"Department of Electrical Engineering",
+    "lat":21.067803738250205,
+    "lng":73.13116070749949
+  },
+  {
+    "id":"dept10",
+    "name":"Asha M. Tarsadia Institute of Computer Science and Technology",
+    "lat":21.067848856772088,
+    "lng":73.13135579942247
+  },
+  {
+    "id":"dept11",
+    "name":"BMIIT",
+    "lat":21.06784487217244,
+    "lng":73.1306819929098
+  },
+  {
+    "id":"dept12",
+    "name":"Shrimad Rajchandra College of Physiotherapy",
+    "lat":21.068035570902747,
+    "lng":73.12975656240519
+  },
+  {
+    "id":"dept13",
+    "name":"Godavariba School of Interior Design",
+    "lat":21.068867243665178,
+    "lng":73.12948214440965
+  },
+  {
+    "id":"dept14",
+    "name":"Jaymin School Of Fashion Design & Technology",
+    "lat":21.068825958203032, 
+    "lng":73.12924409455968
+  },
+  {
+    "id":"dept15",
+    "name":"UTU Department of Agriculture",
+    "lat":21.067062835205363, 
+    "lng":73.12737450100452
+  },
+  {
+    "id":"dept16",
+    "name":"Tarsadia Institute of Chemical Science",
+    "lat":21.066429713192836, 
+    "lng":73.1291911019023
+  },
+  {
+    "id":"Academy01",
+    "name":"Maliba Education Academy",
+    "lat":21.068329037360353, 
+    "lng":73.12957752495555
+  },
+  {
+    "id":"Academy02",
+    "name":"Shrimad Rajchandra School of Sports",
+    "lat":21.068260158436036, 
+    "lng":73.12778718863424
+  },
+  {
+    "id":"shop01",
+    "name":"Tea Post",
+    "lat":21.06891318549312,
+    "lng": 73.13272739565754
+  },
+  {
+    "id":"shop02",
+    "name":"FOODIES",
+    "lat":21.066621417387026, 
+    "lng":73.13026551156614
+  },
+  {
+    "id":"shop03",
+    "name":"Mhalaxmi fast food restaurant",
+    "lat":21.066518796876142, 
+    "lng":73.13046198336878
+  },
+  {
+    "id":"office01",
+    "name":"UTU Office",
+    "lat":21.068826281212523,
+    "lng": 73.13303443956225
+  },
+  {
+    "id":"parking01",
+    "name":"UTU Car Parking 1",
+    "lat":21.068924415821886, 
+    "lng":73.13330143689473
+  },
+  {
+    "id":"parking02",
+    "name":"MotorCycle Parking",
+    "lat":21.068658437174925, 
+    "lng":73.13347383224229
+  },
+  {
+    "id":"parking04",
+    "name":"UTU Car Parking 2",
+    "lat":21.06856117259864, 
+    "lng":73.1300143655968
+  },
+  {
+    "id":"parking03",
+    "name":"Bus Parking",
+    "lat":21.070399780221514, 
+    "lng":73.13176641994772
+  },
+  {
+    "id":"court01",
+    "name":"Maliba badminton court",
+    "lat":21.067779971074813,
+    "lng": 73.13357360952773
+  },
+  {
+    "id":"court02",
+    "name":"Maliba Basket-Ball court",
+    "lat":21.068351830772478, 
+    "lng":73.12900347844665
+  },
+  {
+    "id":"court03",
+    "name":"Maliba Volly-Ball court",
+    "lat":21.0686014957724, 
+    "lng":73.1289712919396
+  },
+  {
+    "id":"Ground01",
+    "name":"UTU Cricket Ground",
+    "lat":21.06868601443256, 
+    "lng":73.12838631729551
+  },
+  {
+    "id":"Gate01",
+    "name":"UTU Main Gate",
+    "lat":21.068399904466656, 
+    "lng":73.13457583179013
+  }
+]
